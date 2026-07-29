@@ -11,13 +11,13 @@ npm run dev
 
 Runs on **http://localhost:3001**
 
-Requires the backend API at **http://localhost:5000**.
+Requires the backend API at **https://dev-api.primecapitalsc.com**.
 
 ## Environment
 
 | Variable | Default | Description |
 |----------|---------|-------------|
-| `VITE_API_URL` | `http://localhost:5000` | Backend API base URL |
+| `VITE_API_URL` | `https://dev-api.primecapitalsc.com` | Backend API base URL |
 
 ## Pages
 
